@@ -46,8 +46,6 @@ Simulates real-world SOC workflow by analyzing logs, enriching IP data, and calc
 📫 Open to SOC Analyst, Threat Intelligence, and Security Analytics roles.
 ---
 
-## 📊 GitHub Stats
-
 ---
 
 ## 📊 GitHub Stats

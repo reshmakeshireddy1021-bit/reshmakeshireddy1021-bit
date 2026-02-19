@@ -48,6 +48,14 @@ Simulates real-world SOC workflow by analyzing logs, enriching IP data, and calc
 
 ## 📊 GitHub Stats
 
-![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshmakeshireddy1021-bit&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmakeshireddy1021-bit&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reshmakeshireddy1021-bit&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmakeshireddy1021-bit&layout=compact&theme=tokyonight" />
+</p>

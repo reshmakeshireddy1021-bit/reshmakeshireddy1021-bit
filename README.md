@@ -1,5 +1,4 @@
 # 👩‍💻 Reshma Keshireddy
-
 🎓 MS Cybersecurity (Data Analytics Emphasis)  
 📊 Data Analytics | Business Intelligence | Security Analytics  
 🐍 Python | SQL | Power BI | Tableau | Excel | Data Visualization  
@@ -7,7 +6,6 @@
 ---
 
 ## 🚀 About Me
-
 I am a graduate student in Cybersecurity with a Data Analytics emphasis, focused on transforming complex data into actionable business insights.
 
 My background bridges **data analytics and cybersecurity**, giving me a unique perspective on **risk data, business intelligence, and security analytics**.
@@ -17,7 +15,6 @@ I build **end-to-end analytics projects — from raw data cleaning in Python to 
 ---
 
 ## 🔍 What I Work On
-
 - Business intelligence dashboards and reporting  
 - Data analysis and visualization  
 - Security analytics and risk scoring  
@@ -26,7 +23,6 @@ I build **end-to-end analytics projects — from raw data cleaning in Python to 
 ---
 
 ## 🛠 Technical Skills
-
 **Programming & Data**
 - Python (Pandas, Matplotlib, Seaborn)
 - SQL
@@ -45,8 +41,7 @@ I build **end-to-end analytics projects — from raw data cleaning in Python to 
 ---
 
 ## 📌 Featured Projects
-
-- 📊 **Global Sales Intelligence Dashboard** – Business intelligence dashboard built using Power BI  
+- 📊 **Global Sales Intelligence Dashboard** – Power BI dashboard analyzing global retail sales  
 - 🔐 **SOC Threat Detection Dashboard** – Security analytics project analyzing network log data  
 - 📉 **Customer Churn Analytics (In Progress)** – Python + Power BI analysis of telecom churn patterns  
 
@@ -58,7 +53,5 @@ I build **end-to-end analytics projects — from raw data cleaning in Python to 
 ---
 
 ## 📫 Connect With Me
-
 - LinkedIn: https://www.linkedin.com/in/reshma-keshireddy-1283b91b6/
-   
 - Location: United States

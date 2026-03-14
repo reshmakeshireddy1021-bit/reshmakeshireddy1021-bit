@@ -1,54 +1,63 @@
-# 👩‍💻 Reshma Keshireddy
+# 👋 Reshma Keshireddy
 
-🎓 Cybersecurity & Data Analytics Graduate Student  
-🔐 SOC Engineering | Threat Intelligence | Security Analytics  
-🐍 Python | Log Analysis | Risk Modeling  
+🎓 MS Cybersecurity (Data Analytics Emphasis)  
+📊 Data Analytics | Business Intelligence | Security Analytics  
+🐍 Python | SQL | Power BI | Tableau | Excel | Data Visualization  
 
 ---
 
 ## 🚀 About Me
 
-I am a cybersecurity graduate student focused on Security Operations Center (SOC) engineering, threat intelligence analysis, and security analytics.
+I am a graduate student in Cybersecurity with a Data Analytics emphasis, focused on transforming complex data into actionable business insights.
 
-My work centers on:
-- Log analysis and IP threat detection
-- Threat intelligence enrichment
-- Risk scoring model development
-- Incident prioritization workflows
-- Data-driven security decision making
+My background bridges **data analytics and cybersecurity**, giving me a unique perspective on **risk data, business intelligence, and security analytics**.
+
+I build **end-to-end analytics projects — from raw data cleaning in Python to interactive Power BI dashboards — to communicate insights that support business decisions.**
 
 ---
 
-## 🛠️ Technical Skills
+## 🔍 What I Work On
 
-**Languages & Tools**
-- Python
-- Jupyter Notebook
-- Git & GitHub
-- Linux (Ubuntu)
-
-**Security Focus Areas**
-- SOC Operations
-- Threat Intelligence
-- Log Analysis
-- Risk Scoring
-- Incident Response Simulation
+- Business intelligence dashboards and reporting  
+- Data analysis and visualization  
+- Security analytics and risk scoring  
+- Python-based data analysis pipelines  
 
 ---
 
-## 📌 Featured Project
+## 🛠 Technical Skills
 
-🔹 **SOC IP Threat Scoring Dashboard**  
-Simulates real-world SOC workflow by analyzing logs, enriching IP data, and calculating risk scores for threat prioritization.
+**Programming & Data**
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL
+- Excel (Pivot Tables, VLOOKUP, Data Analysis)
+
+**Data Visualization**
+- Power BI
+- Tableau
+
+**Analytics**
+- Data analysis
+- Business intelligence reporting
+- Security analytics
+- Risk modeling
 
 ---
 
-📫 Open to SOC Analyst, Threat Intelligence, and Security Analytics roles.
----
+## 📌 Featured Projects
 
+- 📊 **Global Sales Intelligence Dashboard** – Business intelligence dashboard built using Power BI  
+- 🔐 **SOC Threat Detection Dashboard** – Security analytics project analyzing network log data  
+- 📉 **Customer Churn Analytics (In Progress)** – Python + Power BI analysis of telecom churn patterns  
+
+---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshmakeshireddy1021-bit&theme=radical)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=reshmakeshireddy1021-bit&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmakeshireddy1021-bit&layout=compact&theme=radical)
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/reshma-keshireddy-1283b91b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMj10Ey1xQ468KsMLmmIzxA%3D%3D)  
+- Location: United States

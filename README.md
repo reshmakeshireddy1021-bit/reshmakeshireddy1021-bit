@@ -1,4 +1,4 @@
-# 👋 Reshma Keshireddy
+# 👩‍💻 Reshma Keshireddy
 
 🎓 MS Cybersecurity (Data Analytics Emphasis)  
 📊 Data Analytics | Business Intelligence | Security Analytics  

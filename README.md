@@ -59,5 +59,6 @@ I build **end-to-end analytics projects — from raw data cleaning in Python to 
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/reshma-keshireddy-1283b91b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMj10Ey1xQ468KsMLmmIzxA%3D%3D)  
+- LinkedIn: https://www.linkedin.com/in/reshma-keshireddy-1283b91b6/
+   
 - Location: United States

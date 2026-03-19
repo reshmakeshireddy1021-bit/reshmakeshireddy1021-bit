@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Visualization+Specialist;Business+Intelligence+Analyst;Dashboard+Developer&center=true&width=600&height=50&color=1B3A6B&background=FFFFFF00&vCenter=true&size=20)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B3A6B&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Visualization+Specialist;Business+Intelligence+Analyst;Dashboard+Developer)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
@@ -48,7 +48,17 @@ reshma = {
 
 ---
 
-## 🔍 What I Work On
+## 📊 What I Do With Data
+
+<div align="center">
+
+![](https://img.shields.io/badge/Raw%20Data-→%20Clean%20Data-gray?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Clean%20Data-→%20Insights-1B3A6B?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Insights-→%20Decisions-1D9E75?style=for-the-badge&logo=powerbi&logoColor=white)
+
+</div>
+
+<br/>
 
 | | Area | Details |
 |---|------|---------|
@@ -75,7 +85,23 @@ reshma = {
 
 </div>
 
+<br/>
+
 **Reporting & Platforms:** `Excel (Pivot Tables, Macros)` `PowerPoint` `GitHub` `Linux` `AWS Fundamentals` `Snowflake (Basic)`
+
+---
+
+## 🌟 My Approach to Data
+
+<div align="center">
+
+![](https://img.shields.io/badge/1.%20Understand-The%20Business%20Question-1B3A6B?style=for-the-badge)
+![](https://img.shields.io/badge/2.%20Collect-Clean%20%26%20Transform%20Data-0C447C?style=for-the-badge)
+![](https://img.shields.io/badge/3.%20Analyze-Find%20The%20Story-1D9E75?style=for-the-badge)
+![](https://img.shields.io/badge/4.%20Visualize-Design%20The%20Dashboard-854F0B?style=for-the-badge)
+![](https://img.shields.io/badge/5.%20Deliver-Drive%20Decisions-3B6D11?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -85,6 +111,13 @@ reshma = {
 **`Python` `SQL` `Pandas` `Tableau` `Power BI` `REST APIs`**
 
 > Transforming 100,000+ records of global sales data into executive-ready business intelligence
+
+| Metric | Result |
+|--------|--------|
+| 📦 Records Processed | 100,000+ |
+| ⚡ Data Prep Time Saved | 40% faster |
+| 👥 Audience | Business stakeholders & executives |
+| 🛠️ Tools | Tableau, Power BI, Python, SQL |
 
 - 🎯 Designed interactive **Tableau and Power BI dashboards** visualizing sales performance across regions, product lines, and time periods
 - ⚡ Engineered an end-to-end **ETL data pipeline** processing 100,000+ records, reducing data preparation time by **40%**
@@ -100,6 +133,13 @@ reshma = {
 
 > Making security risk visible and understandable for executive decision-makers
 
+| Metric | Result |
+|--------|--------|
+| 📊 Dashboard Type | Executive Power BI |
+| 🔢 Scoring Model | CVSS-based risk pipeline |
+| 👥 Audience | Technical analysts & senior leadership |
+| 🛠️ Tools | Python, Pandas, Power BI |
+
 - 📊 Developed an **executive-level Power BI dashboard** translating raw vulnerability data into quantified financial risk metrics
 - 🔢 Built a **CVSS-based risk scoring pipeline** converting raw inputs into priority-tiered remediation recommendations
 - 👥 Designed for **dual audiences** — meaningful for both technical analysts and non-technical senior leadership
@@ -112,6 +152,13 @@ reshma = {
 **`Python` `Pandas` `Plotly` `SQL` `REST APIs` `Data Visualization`**
 
 > Automating threat data enrichment and surfacing intelligence through interactive visual dashboards
+
+| Metric | Result |
+|--------|--------|
+| ⚡ Manual Lookup Reduction | ~60% faster |
+| 🤖 Pipeline | Fully automated via REST APIs |
+| 📈 Visualization | Interactive Plotly dashboards |
+| 🛠️ Tools | Python, Plotly, SQL, VirusTotal API |
 
 - 🤖 Built an **automated data pipeline** enriching raw IP log data via VirusTotal and AbuseIPDB APIs, cutting manual lookup time by **~60%**
 - 📈 Developed **interactive Plotly dashboards** visualizing threat score trends, geographic distribution, and severity breakdowns

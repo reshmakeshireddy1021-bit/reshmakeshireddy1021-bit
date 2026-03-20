@@ -15,7 +15,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-854F0B?style=flat-square&logo=powerbi&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-993C1D?style=flat-square&logo=tableau&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![Excel](https://img.shields.io/badge/Excel-Analytics-3B6D11?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Security Analytics](https://img.shields.io/badge/Security%20Analytics-SIEM%20%7C%20CVSS%20%7C%20Risk-0F6E56?style=flat-square&logo=shield&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Security Analytics](https://img.shields.io/badge/Security%20Analytics-SIEM%20%7C%20CVSS%20%7C%20Riskanalytics-0F6E56?style=flat-square&logo=shield&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 

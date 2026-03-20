@@ -156,7 +156,7 @@ reshma = {
 - 📖 Translated complex multi-source datasets into **executive visual summaries** surfacing revenue anomalies and growth signals
 - 🔍 Built drill-down **KPI dashboards** enabling self-service BI reporting for business stakeholders
 
-[**View Project →**](https://github.com/reshmakeshireddy1021-bit/Global-Sales-Intelligence-Dashboard)
+[**View Project →**](https://github.com/reshmakeshireddy1021-bit/global-sales-intelligence-dashboard)
 
 ---
 
@@ -176,7 +176,7 @@ reshma = {
 - 🔢 Built a **CVSS-based risk scoring pipeline** converting raw inputs into priority-tiered remediation recommendations
 - 👥 Designed for **dual audiences** — meaningful for both technical analysts and non-technical senior leadership
 
-[**View Project →**](https://github.com/reshmakeshireddy1021-bit/cyberpulse-dashboard)
+[**View Project →**](https://github.com/reshmakeshireddy1021-bit/cyber-risk-quantification-dashboard)
 
 ---
 

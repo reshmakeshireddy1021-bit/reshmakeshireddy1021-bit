@@ -160,7 +160,7 @@ reshma = {
 
 ---
 
-### 🛡️ CyberPulse — Risk Analytics & Executive Dashboard
+### 🛡️ Cyber-risk-quantification-dashboard
 **`Python` `Pandas` `Power BI` `CVSS Scoring` `Data Visualization`**
 
 > Making security risk visible and understandable for executive decision-makers

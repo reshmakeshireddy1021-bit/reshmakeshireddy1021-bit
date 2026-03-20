@@ -2,11 +2,17 @@
 
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=Reshma+Keshireddy&size=120&background=1B3A6B&color=fff&rounded=true&bold=true&font-size=0.33" />
+<img src="https://avatars.githubusercontent.com/reshmakeshireddy1021-bit" width="120" style="border-radius: 50%;" />
 
-<br/><br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B3A6B&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Visualization+Specialist;Business+Intelligence+Analyst;Dashboard+Developer)](https://github.com/reshmakeshireddy1021-bit)
+<h2>Reshma Keshireddy</h2>
+<p><b>Data Visualization Designer · Business Intelligence Analyst · Analytics Professional</b></p>
+<p>📍 St. Louis, MO — Open to anywhere in the USA</p>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst;Data+Visualization+Specialist;Business+Intelligence+Analyst;Dashboard+Developer;Turning+Raw+Data+Into+Decisions)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
@@ -15,13 +21,19 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-854F0B?style=flat-square&logo=powerbi&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-993C1D?style=flat-square&logo=tableau&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![Excel](https://img.shields.io/badge/Excel-Analytics-3B6D11?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Security Analytics](https://img.shields.io/badge/Security%20Analytics-SIEM%20%7C%20CVSS%20%7C%20Riskanalytics-0F6E56?style=flat-square&logo=shield&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+
+<br/>
+
+[![Security Analytics](https://img.shields.io/badge/Security%20Analytics-SIEM%20%7C%20CVSS%20%7C%20Risk-0F6E56?style=flat-square&logo=shield&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-ELK%20Stack-085041?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-VirusTotal%20%7C%20AbuseIPDB-712B13?style=flat-square&logo=virustotal&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
 ![](https://img.shields.io/badge/Experience-3.5%2B%20Years-1B3A6B?style=for-the-badge)
 ![](https://img.shields.io/badge/Projects-3%20Live-1D9E75?style=for-the-badge)
 ![](https://img.shields.io/badge/Records%20Processed-100K%2B-854F0B?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Open%20to%20Anywhere%20in%20USA-378ADD?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -31,7 +43,7 @@
 
 > *"I don't just analyze data — I tell its story."*
 
-Data Visualization Designer and Analytics professional with a Master's degree with a concentration in Data Analytics and 3.5+ years of enterprise IT experience based in **St. Louis, MO**.
+Data Visualization Designer and Analytics professional with a Master's degree with a concentration in Data Analytics and 3.5+ years of enterprise IT experience based in **St. Louis, MO — open to opportunities anywhere in the USA**.
 
 I specialize in **transforming complex, multi-source datasets into clear and compelling visual stories** — from data cleaning and transformation using Python and SQL, to designing interactive dashboards in Tableau and Power BI that help organizations understand trends, risks, and performance metrics.
 
@@ -41,7 +53,7 @@ reshma = {
     "focus"     : ["Data Visualization", "Business Intelligence", "Data Storytelling"],
     "tools"     : ["Tableau", "Power BI", "Python", "SQL", "Excel"],
     "strength"  : "Turning raw data into decisions",
-    "location"  : "St. Louis, MO — Open to opportunities",
+    "location"  : "St. Louis, MO — Open to anywhere in the USA",
     "currently" : "Building portfolio & seeking BI / Data Analyst roles"
 }
 ```
@@ -178,6 +190,6 @@ reshma = {
 
 <br/>
 
-*Open to Data Analyst · Business Intelligence Analyst · Data Visualization roles in St. Louis, MO and remote*
+*Open to Data Analyst · Business Intelligence Analyst · Data Visualization roles anywhere in the USA · Remote & On-site*
 
 </div>

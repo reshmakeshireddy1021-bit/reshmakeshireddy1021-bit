@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:0C447C,100:854F0B&height=200&section=header&text=Reshma%20Keshireddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Cyber%20Security%20%7C%20SIEM&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/reshmakeshireddy1021-bit" width="120" style="border-radius: 50%;" />
-
 <br/>
 <p><b>Data Analyst · Business Intelligence · Python · SQL · Power BI · Cyber Security · Security Analytics · SIEM</b></p>
 <p>📍 St. Louis, MO — Open to Work in the USA</p>

@@ -7,26 +7,26 @@
 <br/>
 
 <h2>Reshma Keshireddy</h2>
-<p><b>Data Analyst · Business Intelligence · Python · SQL · Power BI · Cyber Security · Security Analytics · SIEM</b></p>
+<p><b>Data Analyst · Business Intelligence · Python · SQL · Power BI · DAX · Cyber Security · SIEM</b></p>
 <p>📍 St. Louis, MO — Open to Work in the USA</p>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst;Business+Intelligence+Analyst;Python+%7C+SQL+%7C+Power+BI;Cyber+Security+%7C+SIEM+%7C+Security+Analytics;Turning+Raw+Data+Into+Decisions)](https://github.com/reshmakeshireddy1021-bit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst;Business+Intelligence+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+DAX;Cyber+Security+%7C+SIEM+%7C+Security+Analytics;Turning+Raw+Data+Into+Decisions)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-Expert-0C447C?style=flat-square&logo=python&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![SQL](https://img.shields.io/badge/SQL-Advanced-3B6D11?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-854F0B?style=flat-square&logo=powerbi&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-854F0B?style=flat-square&logo=powerbi&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-993C1D?style=flat-square&logo=tableau&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Excel](https://img.shields.io/badge/Excel-Analytics-3B6D11?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Excel](https://img.shields.io/badge/Excel-Pivot%20%7C%20Macros-3B6D11?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
 [![Security Analytics](https://img.shields.io/badge/Security%20Analytics-SIEM%20%7C%20CVSS%20%7C%20Risk-0F6E56?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-ELK%20Stack-085041?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
-[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-VirusTotal%20%7C%20AbuseIPDB-712B13?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-ELK%20Stack%20%7C%20Splunk-085041?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
+[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-MITRE%20ATT%26CK%20%7C%20VirusTotal-712B13?style=flat-square&logo=elastic&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 
 <br/>
 
@@ -41,21 +41,19 @@
 
 ## 🚀 About Me
 
-<!-- Profile Views counter — top right of About Me section, just like Amlan's profile -->
 <img align="right" src="https://komarev.com/ghpvc/?username=reshmakeshireddy1021-bit&style=for-the-badge&color=1D9E75&label=Profile+Views" />
 
 <br/>
 
-<!-- GIF floating on the right side next to About Me text -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340" />
 
 > *"I don't just analyze data — I tell its story."*
 
-Data Visualization Designer and Analytics professional with a Master's degree with a concentration in Data Analytics and **3.5+ years of enterprise IT experience** based in **St. Louis, MO — open to work anywhere in the USA**.
+Data Analytics and Business Intelligence professional with a Master's degree in Cybersecurity (Data Analytics emphasis) and **3.5+ years of enterprise IT experience** based in **St. Louis, MO — open to work anywhere in the USA**.
 
-I specialize in **transforming complex, multi-source datasets into clear and compelling visual stories** — from data cleaning and transformation using Python and SQL, to designing interactive dashboards in Tableau and Power BI that help organizations understand trends, risks, and performance metrics.
+I specialize in **transforming complex, multi-source datasets into clear and compelling visual stories** — from data cleaning and transformation using Python and SQL, to designing interactive dashboards in Tableau and Power BI with DAX and Power Query that help organizations understand trends, risks, and performance metrics.
 
-My background gives me a unique edge in data accuracy, risk awareness, and responsible data practices. I build visualization products that make information accessible and actionable for **any audience** — from operational teams to executive leadership and board members.
+My cybersecurity background gives me a unique edge in data accuracy, risk awareness, and responsible data practices. I build analytics products that are not only insightful but trustworthy — for **any audience**, from operational teams to executive leadership.
 
 <br clear="right"/>
 
@@ -83,11 +81,11 @@ My background gives me a unique edge in data accuracy, risk awareness, and respo
 
 | | Area | Details |
 |---|------|---------|
-| 📊 | **BI Dashboards** | Interactive dashboards in Tableau & Power BI for business stakeholders |
-| 📈 | **Data Visualization** | Translating complex datasets into clear, compelling visual stories |
-| ⚙️ | **Data Pipelines** | Python ETL pipelines for cleaning, transforming, and aggregating data |
-| 🗄️ | **SQL Analytics** | Advanced querying, data modeling, and multi-source aggregation |
-| 🔐 | **Security Analytics** | SIEM log analysis, CVSS risk scoring, threat intelligence dashboards |
+| 📊 | **BI Dashboards** | Interactive dashboards in Tableau & Power BI with DAX, Power Query, and Data Modeling |
+| 📈 | **Data Visualization** | Translating complex datasets into clear visual stories using Plotly, Matplotlib, Seaborn |
+| ⚙️ | **Data Pipelines** | Python ETL pipelines (Pandas, NumPy) for cleaning, transforming, and aggregating data |
+| 🗄️ | **SQL Analytics** | Advanced querying, CTEs, Window Functions, data modeling, and multi-source aggregation |
+| 🔐 | **Security Analytics** | SIEM log analysis, CVSS risk scoring, MITRE ATT&CK, threat intelligence dashboards |
 
 ---
 
@@ -105,18 +103,20 @@ My background gives me a unique edge in data accuracy, risk awareness, and respo
 
 | 📊 Visualization & BI | 💻 Data Engineering | 🔐 Security Analytics |
 |---|---|---|
-| Tableau | Python (Pandas, NumPy) | SIEM Log Analysis (ELK Stack) |
-| Power BI | SQL (CTEs, Window Functions) | CVSS Vulnerability Scoring |
-| Plotly · Matplotlib | ETL Pipelines | Threat Intelligence |
-| Dashboard Design | Data Cleaning & Transformation | Risk Quantification |
-| KPI Development | Feature Engineering | Anomaly Detection |
-| Data Storytelling | REST APIs | Automated Risk Scoring |
+| Power BI (DAX, Power Query, Data Modeling) | Python (Pandas, NumPy, Matplotlib) | SIEM Log Analysis (ELK Stack, Splunk) |
+| Tableau | SQL (CTEs, Window Functions, Joins) | CVSS Vulnerability Scoring |
+| Plotly · Matplotlib · Seaborn | ETL Pipelines | MITRE ATT&CK Framework |
+| Dashboard Design & KPI Development | Data Cleaning & Transformation | Threat Intelligence (VirusTotal, AbuseIPDB) |
+| Data Storytelling | Feature Engineering | Risk Quantification & Anomaly Detection |
+| Executive Reporting | Large Dataset Processing (100K+ records) | Incident Response · Phishing Analysis |
 
 </div>
 
 <br/>
 
-**Reporting & Platforms:** `Excel (Pivot Tables, Macros)` `PowerPoint` `GitHub` `Linux` `AWS Fundamentals` `Snowflake (Basic)`
+**Reporting & Tools:** `Excel (Pivot Tables, Macros, Advanced Formulas)` `PowerPoint` `GitHub` `Linux (RHEL/Ubuntu)` `Windows Server` `ITIL Service Management`
+
+**Cloud & Platforms:** `AWS Fundamentals` `Azure Fundamentals` `Snowflake (Basic)` `REST APIs (VirusTotal, AbuseIPDB)`
 
 ---
 
@@ -137,7 +137,7 @@ My background gives me a unique edge in data accuracy, risk awareness, and respo
 ## 📁 Featured Projects
 
 ### 🌐 Global Sales Intelligence Dashboard
-**`Python` `SQL` `Pandas` `Tableau` `Power BI` `REST APIs`**
+**`Power BI` `Tableau` `DAX` `Power Query` `Python` `SQL` `Pandas` `Excel`**
 
 > Transforming 100,000+ records of global sales data into executive-ready business intelligence
 
@@ -146,52 +146,52 @@ My background gives me a unique edge in data accuracy, risk awareness, and respo
 | 📦 Records Processed | 100,000+ |
 | ⚡ Data Prep Time Saved | 40% faster |
 | 👥 Audience | Business stakeholders & executives |
-| 🛠️ Tools | Tableau, Power BI, Python, SQL |
+| 🛠️ Tools | Power BI, Tableau, DAX, Power Query, Python, SQL |
 
-- 🎯 Designed interactive **Tableau and Power BI dashboards** visualizing sales performance across regions, product lines, and time periods
-- ⚡ Engineered an end-to-end **ETL data pipeline** processing 100,000+ records, reducing data preparation time by **40%**
-- 📖 Translated complex multi-source datasets into **executive visual summaries** surfacing revenue anomalies and growth signals
-- 🔍 Built drill-down **KPI dashboards** enabling self-service BI reporting for business stakeholders
+- 🎯 Designed interactive **Power BI and Tableau dashboards** with **DAX measures and calculated columns** for KPI tracking, revenue trend analysis, and period-over-period comparisons
+- ⚡ Built **Power Query (M) and Python (Pandas) ETL scripts** processing 100,000+ records from multiple sources, reducing data preparation time by **40%**
+- 📖 Translated complex multi-source datasets into **executive-facing visual summaries** surfacing revenue anomalies, regional trends, and growth signals
+- 🔍 Enabled dynamic **drill-down reporting** for executive leadership across regions and product lines
 
 [**View Project →**](https://github.com/reshmakeshireddy1021-bit/global-sales-intelligence-dashboard)
 
 ---
 
 ### 🛡️ Cyber Risk Quantification Dashboard
-**`Python` `Pandas` `Power BI` `CVSS Scoring` `Data Visualization`**
+**`Power BI` `DAX` `Python` `Pandas` `CVSS Scoring` `Risk Analytics` `Data Visualization`**
 
 > Making security risk visible and understandable for executive decision-makers
 
 | Metric | Result |
 |--------|--------|
+| ⏱️ Manual Triage Time Saved | ~2–3 hours per assessment |
 | 📊 Dashboard Type | Executive Power BI |
-| 🔢 Scoring Model | CVSS-based risk pipeline |
+| 🔢 Scoring Model | CVSS-based DAX risk pipeline |
 | 👥 Audience | Technical analysts & senior leadership |
-| 🛠️ Tools | Python, Pandas, Power BI |
 
-- 📊 Developed an **executive-level Power BI dashboard** translating raw vulnerability data into quantified financial risk metrics
-- 🔢 Built a **CVSS-based risk scoring pipeline** converting raw inputs into priority-tiered remediation recommendations
-- 👥 Designed for **dual audiences** — meaningful for both technical analysts and non-technical senior leadership
+- 📊 Developed an **executive-level Power BI dashboard** translating raw vulnerability data into quantified financial risk metrics using a **CVSS-based scoring model**
+- 🔢 Built a **DAX-based risk classification pipeline** converting raw vulnerability inputs into priority-tiered remediation scores, reducing manual triage time by **~2–3 hours per assessment**
+- 👥 Designed for **dual audiences** — meaningful and actionable for both technical analysts and non-technical senior leadership
 
 [**View Project →**](https://github.com/reshmakeshireddy1021-bit/cyber-risk-quantification-dashboard)
 
 ---
 
-### 🔍 Threat Intelligence Analytics Dashboard
-**`Python` `Pandas` `Plotly` `SQL` `REST APIs` `Data Visualization`**
+### 🔍 IP Threat Scoring & Security Analytics Dashboard
+**`Python` `Pandas` `Plotly` `SQL` `REST APIs` `SIEM` `ELK Stack` `MITRE ATT&CK`**
 
 > Automating threat data enrichment and surfacing intelligence through interactive visual dashboards
 
 | Metric | Result |
 |--------|--------|
-| ⚡ Manual Lookup Reduction | ~60% faster |
+| ⚡ Manual Lookup Reduction | ~60% per analyst session |
 | 🤖 Pipeline | Fully automated via REST APIs |
 | 📈 Visualization | Interactive Plotly dashboards |
-| 🛠️ Tools | Python, Plotly, SQL, VirusTotal API |
+| 🛠️ Tools | Python, Plotly, SQL, VirusTotal API, AbuseIPDB |
 
-- 🤖 Built an **automated data pipeline** enriching raw IP log data via VirusTotal and AbuseIPDB APIs, cutting manual lookup time by **~60%**
-- 📈 Developed **interactive Plotly dashboards** visualizing threat score trends, geographic distribution, and severity breakdowns
-- 🚀 Demonstrated full **data product lifecycle** — from raw ingestion to polished, decision-ready visual outputs
+- 🤖 Engineered an **automated threat intelligence pipeline** ingesting raw IP log data and enriching it via **VirusTotal and AbuseIPDB REST APIs**, cutting manual lookup time by **~60% per analyst session**
+- 📈 Developed **interactive Plotly dashboards** visualizing threat score trends, geographic IP distribution, and alert severity breakdowns — delivering SOC-ready operational intelligence
+- 🔐 Applied **MITRE ATT&CK framework tagging** and CVSS-aligned scoring to contextualize threat behaviors across security analytics and data visualization
 
 [**View Project →**](https://github.com/reshmakeshireddy1021-bit/SOC-IP-Threat-Scoring-Dashboard)
 

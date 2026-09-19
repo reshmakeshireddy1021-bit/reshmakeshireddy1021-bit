@@ -30,7 +30,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Experience-3.5%2B%20Years-1B3A6B?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Projects-3%20Live-1D9E75?style=for-the-badge)
 ![](https://img.shields.io/badge/Records%20Processed-100K%2B-854F0B?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20to%20Work-Anywhere%20in%20the%20USA-378ADD?style=for-the-badge&logo=googlemaps&logoColor=white)

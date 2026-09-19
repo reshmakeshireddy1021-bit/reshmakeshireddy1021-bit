@@ -49,7 +49,7 @@
 
 > *"I don't just analyze data — I tell its story."*
 
-Data Analytics and Business Intelligence professional with a Master's degree in Cybersecurity (Data Analytics emphasis) and **3.5+ years of enterprise IT experience** based in **St. Louis, MO — open to work anywhere in the USA**.
+Data Analytics and Business Intelligence professional with a Master's degree in Cybersecurity (Data Analytics emphasis) and **proven years of enterprise IT experience** based in **United states — open to work anywhere in the USA**.
 
 I specialize in **transforming complex, multi-source datasets into clear and compelling visual stories** — from data cleaning and transformation using Python and SQL, to designing interactive dashboards in Tableau and Power BI with DAX and Power Query that help organizations understand trends, risks, and performance metrics.
 

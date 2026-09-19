@@ -8,7 +8,7 @@
 
 <h2>Reshma Keshireddy</h2>
 <p><b>Data Analyst · Business Intelligence · Python · SQL · Power BI · DAX · Cyber Security · SIEM</b></p>
-<p>📍 St. Louis, MO — Open to Work in the USA</p>
+<p>📍 United States Of America — Open to Work in the USA</p>
 
 <br/>
 

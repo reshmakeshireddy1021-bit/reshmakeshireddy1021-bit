@@ -1,0 +1,324 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  .dash {
+    background: #0d1117;
+    padding: 14px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 90px 1fr 1fr;
+    gap: 10px;
+    width: 100%;
+    min-height: 340px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 12px 14px;
+    overflow: hidden;
+    position: relative;
+  }
+  .card-label {
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: #6e7681;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  /* Name card */
+  .name-card {
+    grid-column: 1; grid-row: 1;
+    display: flex; flex-direction: column; justify-content: center;
+  }
+  .name-text { font-size: 14px; font-weight: 700; color: #e6edf3; }
+  .name-sub { font-size: 10px; color: #8b949e; margin-top: 2px; }
+  .pulse-dot {
+    width: 8px; height: 8px; border-radius: 50%; background: #3fb950;
+    display: inline-block; margin-right: 6px;
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%,100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.7); }
+  }
+
+  /* ETL card */
+  .etl-card { grid-column: 2; grid-row: 1; }
+  .etl-value {
+    font-size: 26px; font-weight: 700; color: #3fb950;
+    animation: countETL 2s ease forwards;
+  }
+  @keyframes countETL {
+    from { opacity: 0; } to { opacity: 1; }
+  }
+  .bar-track {
+    height: 4px; background: #21262d; border-radius: 2px; margin-top: 10px;
+  }
+  .bar-fill-etl {
+    height: 4px; border-radius: 2px; background: #3fb950; width: 0;
+    animation: fillETL 2s ease 0.5s forwards;
+  }
+  @keyframes fillETL { to { width: 40%; } }
+
+  /* Lookup card */
+  .lookup-card { grid-column: 3; grid-row: 1; }
+  .lookup-value { font-size: 26px; font-weight: 700; color: #f78166; }
+  .bar-fill-lookup {
+    height: 4px; border-radius: 2px; background: #f78166; width: 0;
+    animation: fillLookup 2s ease 0.5s forwards;
+  }
+  @keyframes fillLookup { to { width: 60%; } }
+
+  /* Skills card */
+  .skills-card { grid-column: 1; grid-row: 2 / 4; }
+  .skill-row { margin: 7px 0; }
+  .skill-header { display: flex; justify-content: space-between; font-size: 10px; color: #8b949e; margin-bottom: 3px; }
+  .skill-track { height: 5px; background: #21262d; border-radius: 3px; }
+  .skill-bar { height: 5px; border-radius: 3px; width: 0; }
+  .s1 { background: #2a78d6; animation: fill75 2.2s ease 0.8s forwards; }
+  .s2 { background: #eb6834; animation: fill85 2.2s ease 0.9s forwards; }
+  .s3 { background: #1baf7a; animation: fill70 2.2s ease 1.0s forwards; }
+  .s4 { background: #eda100; animation: fill80 2.2s ease 1.1s forwards; }
+  .s5 { background: #e87ba4; animation: fill60 2.2s ease 1.2s forwards; }
+  .s6 { background: #6250d6; animation: fill65 2.2s ease 1.3s forwards; }
+  @keyframes fill75 { to { width: 75%; } }
+  @keyframes fill85 { to { width: 85%; } }
+  @keyframes fill70 { to { width: 70%; } }
+  @keyframes fill80 { to { width: 80%; } }
+  @keyframes fill60 { to { width: 60%; } }
+  @keyframes fill65 { to { width: 65%; } }
+
+  /* Trend card */
+  .trend-card { grid-column: 2; grid-row: 2; }
+  .trend-svg { width: 100%; height: 65px; }
+  .trend-path {
+    stroke-dasharray: 300;
+    stroke-dashoffset: 300;
+    animation: drawLine 2.5s ease 0.5s forwards;
+  }
+  .trend-area {
+    opacity: 0;
+    animation: fadeArea 1s ease 2s forwards;
+  }
+  @keyframes drawLine { to { stroke-dashoffset: 0; } }
+  @keyframes fadeArea { to { opacity: 1; } }
+  .x-labels { display: flex; justify-content: space-between; padding: 0 2px; margin-top: 2px; }
+  .x-label { font-size: 9px; color: #6e7681; }
+
+  /* Mix card */
+  .mix-card { grid-column: 3; grid-row: 2 / 4; display: flex; flex-direction: column; }
+  .pie-wrap { position: relative; width: 100px; height: 100px; margin: 8px auto; }
+  .pie-segment {
+    transition: all 0.3s;
+  }
+  .legend-row { display: flex; align-items: center; gap: 5px; font-size: 10px; color: #8b949e; margin: 3px 0; }
+  .legend-sq { width: 8px; height: 8px; border-radius: 1px; flex-shrink: 0; }
+
+  /* Bottom insights */
+  .insights-card { grid-column: 2; grid-row: 3; display: flex; align-items: center; justify-content: center; gap: 6px; }
+  .insight-num {
+    font-size: 28px; font-weight: 700; color: #e6edf3;
+    animation: popIn 0.5s ease 2s both;
+  }
+  @keyframes popIn {
+    from { transform: scale(0.5); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+  }
+
+  /* Shimmer overlay for loading feel */
+  .shimmer {
+    position: absolute; inset: 0;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.04) 50%, transparent 100%);
+    background-size: 200% 100%;
+    animation: shimmer 2s ease 0s 1;
+    pointer-events: none;
+  }
+  @keyframes shimmer {
+    from { background-position: -200% 0; opacity: 1; }
+    to { background-position: 200% 0; opacity: 0; }
+  }
+
+  /* ETL counter JS animation */
+  .etl-value, .lookup-value { font-variant-numeric: tabular-nums; }
+</style>
+
+<div class="dash">
+  <!-- Name -->
+  <div class="card name-card">
+    <div class="shimmer"></div>
+    <div style="display:flex;align-items:center;margin-bottom:6px;">
+      <span class="pulse-dot"></span>
+      <span style="font-size:10px;color:#3fb950;letter-spacing:.08em;">ACTIVE</span>
+    </div>
+    <div class="name-text">Reshma K.</div>
+    <div class="name-sub">Data / BI Analyst</div>
+  </div>
+
+  <!-- ETL Gain -->
+  <div class="card etl-card">
+    <div class="shimmer"></div>
+    <div class="card-label">ETL Gain</div>
+    <div class="etl-value" id="etlVal">0%</div>
+    <div class="bar-track"><div class="bar-fill-etl"></div></div>
+  </div>
+
+  <!-- Lookup -->
+  <div class="card lookup-card">
+    <div class="shimmer"></div>
+    <div class="card-label">Lookup</div>
+    <div class="lookup-value" id="lookupVal">0%</div>
+    <div class="bar-track"><div class="bar-fill-lookup"></div></div>
+  </div>
+
+  <!-- Skills -->
+  <div class="card skills-card">
+    <div class="card-label">Skills Proficiency</div>
+    <div class="skill-row"><div class="skill-header"><span>Python</span><span>75%</span></div><div class="skill-track"><div class="skill-bar s1"></div></div></div>
+    <div class="skill-row"><div class="skill-header"><span>SQL</span><span>85%</span></div><div class="skill-track"><div class="skill-bar s2"></div></div></div>
+    <div class="skill-row"><div class="skill-header"><span>Tableau</span><span>70%</span></div><div class="skill-track"><div class="skill-bar s3"></div></div></div>
+    <div class="skill-row"><div class="skill-header"><span>Power BI</span><span>80%</span></div><div class="skill-track"><div class="skill-bar s4"></div></div></div>
+    <div class="skill-row"><div class="skill-header"><span>ELK</span><span>60%</span></div><div class="skill-track"><div class="skill-bar s5"></div></div></div>
+    <div class="skill-row"><div class="skill-header"><span>Plotly</span><span>65%</span></div><div class="skill-track"><div class="skill-bar s6"></div></div></div>
+  </div>
+
+  <!-- Trend -->
+  <div class="card trend-card">
+    <div class="card-label">Data Insights Trend</div>
+    <svg class="trend-svg" viewBox="0 0 170 60" preserveAspectRatio="none">
+      <defs>
+        <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#3fb950" stop-opacity="0.5"/>
+          <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <path class="trend-area" d="M8 52 L35 35 L62 20 L89 18 L116 17 L143 16 L162 15 L162 56 L8 56 Z" fill="url(#areaGrad)"/>
+      <path class="trend-path" d="M8 52 L35 35 L62 20 L89 18 L116 17 L143 16 L162 15" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div class="x-labels">
+      <span class="x-label">Jan</span><span class="x-label">Feb</span><span class="x-label">Mar</span>
+      <span class="x-label">Apr</span><span class="x-label">May</span><span class="x-label">Jun</span><span class="x-label">Jul</span>
+    </div>
+  </div>
+
+  <!-- Analytics Mix -->
+  <div class="card mix-card">
+    <div class="card-label">Analytics Domain Mix</div>
+    <canvas id="pieCanvas" width="100" height="100" style="display:block;margin:8px auto;"></canvas>
+    <div style="margin-top:4px;">
+      <div class="legend-row"><div class="legend-sq" style="background:#2a78d6"></div>BI 35%</div>
+      <div class="legend-row"><div class="legend-sq" style="background:#eb6834"></div>SQL 25%</div>
+      <div class="legend-row"><div class="legend-sq" style="background:#1baf7a"></div>Py 20%</div>
+      <div class="legend-row"><div class="legend-sq" style="background:#eda100"></div>Sec 20%</div>
+    </div>
+  </div>
+
+  <!-- Bottom insight -->
+  <div class="card insights-card">
+    <div style="text-align:center;">
+      <div style="font-size:10px;color:#6e7681;letter-spacing:.08em;text-transform:uppercase;margin-bottom:4px;">Data Mix</div>
+      <div class="insight-num">4</div>
+      <div style="font-size:10px;color:#6e7681;">domains</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Counter animations
+  function animCount(el, target, suffix, delay, duration) {
+    setTimeout(() => {
+      let start = 0;
+      const step = target / (duration / 16);
+      const t = setInterval(() => {
+        start = Math.min(start + step, target);
+        el.textContent = Math.round(start) + suffix;
+        if (start >= target) clearInterval(t);
+      }, 16);
+    }, delay);
+  }
+  animCount(document.getElementById('etlVal'), 40, '%', 300, 1000);
+  animCount(document.getElementById('lookupVal'), 60, '%', 300, 1000);
+
+  // Animated pie
+  const canvas = document.getElementById('pieCanvas');
+  const ctx = canvas.getContext('2d');
+  const slices = [
+    { pct: 0.35, color: '#2a78d6' },
+    { pct: 0.25, color: '#eb6834' },
+    { pct: 0.20, color: '#1baf7a' },
+    { pct: 0.20, color: '#eda100' },
+  ];
+  const cx = 50, cy = 50, r = 38;
+  let progress = 0;
+  const totalAngle = Math.PI * 2;
+
+  function drawPie(prog) {
+    ctx.clearRect(0, 0, 100, 100);
+    let angle = -Math.PI / 2;
+    let drawn = 0;
+    for (let i = 0; i < slices.length; i++) {
+      const sweep = slices[i].pct * totalAngle;
+      const drawSweep = Math.min(sweep, Math.max(0, prog - drawn));
+      if (drawSweep > 0) {
+        ctx.beginPath();
+        ctx.moveTo(cx, cy);
+        ctx.arc(cx, cy, r, angle, angle + drawSweep);
+        ctx.closePath();
+        ctx.fillStyle = slices[i].color;
+        ctx.fill();
+      }
+      drawn += sweep;
+      angle += sweep;
+      if (drawn >= prog) break;
+    }
+    // Donut hole
+    ctx.beginPath();
+    ctx.arc(cx, cy, 18, 0, Math.PI * 2);
+    ctx.fillStyle = '#161b22';
+    ctx.fill();
+  }
+
+  let startTime = null;
+  const pieDuration = 1800;
+  const pieDelay = 600;
+  function animatePie(ts) {
+    if (!startTime) startTime = ts;
+    const elapsed = ts - startTime;
+    if (elapsed < pieDelay) { requestAnimationFrame(animatePie); return; }
+    progress = Math.min(((elapsed - pieDelay) / pieDuration) * totalAngle, totalAngle);
+    drawPie(progress);
+    if (progress < totalAngle) requestAnimationFrame(animatePie);
+  }
+  requestAnimationFrame(animatePie);
+
+  // Loop all animations every 5s by reloading styles
+  function restartAnimations() {
+    const cards = document.querySelectorAll('.card');
+    cards.forEach(c => {
+      const s = c.querySelector('.shimmer');
+      if (s) { s.style.animation = 'none'; void s.offsetWidth; s.style.animation = ''; }
+    });
+    // Reset counters
+    document.getElementById('etlVal').textContent = '0%';
+    document.getElementById('lookupVal').textContent = '0%';
+    animCount(document.getElementById('etlVal'), 40, '%', 0, 1000);
+    animCount(document.getElementById('lookupVal'), 60, '%', 0, 1000);
+    // Reset bars
+    document.querySelectorAll('.skill-bar').forEach(b => {
+      b.style.animation = 'none'; void b.offsetWidth; b.style.animation = '';
+    });
+    document.querySelectorAll('.bar-fill-etl, .bar-fill-lookup').forEach(b => {
+      b.style.animation = 'none'; void b.offsetWidth; b.style.animation = '';
+    });
+    document.querySelectorAll('.trend-path, .trend-area').forEach(b => {
+      b.style.animation = 'none'; void b.offsetWidth; b.style.animation = '';
+    });
+    // Restart pie
+    progress = 0; startTime = null;
+    requestAnimationFrame(animatePie);
+  }
+
+  setInterval(restartAnimations, 5000);
+</script>

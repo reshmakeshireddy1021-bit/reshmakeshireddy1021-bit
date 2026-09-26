@@ -1,14 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:0C447C,100:854F0B&height=200&section=header&text=Reshma%20Keshireddy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Cyber%20Security%20%7C%20SIEM&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<div align="center"> 
-  
+<div align="center">  
 <img src="https://raw.githubusercontent.com/reshmakeshireddy1021-bit/reshmakeshireddy1021-bit/main/animated_analyst_dashboard.gif" width="100%" alt="Reshma Analytics Dashboard"/>
-<br/>
-
-<h2>Reshma Keshireddy</h2>
-<p><b>Data Analyst · Business Intelligence · Python · SQL · Power BI · DAX · Cyber Security · SIEM</b></p>
-<p>📍 United States Of America — Open to Work in the USA</p>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=600&height=60&lines=Data+Analyst;Business+Intelligence+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+DAX;Cyber+Security+%7C+SIEM+%7C+Security+Analytics;Turning+Raw+Data+Into+Decisions)](https://github.com/reshmakeshireddy1021-bit)

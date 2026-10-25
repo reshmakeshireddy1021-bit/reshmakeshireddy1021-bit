@@ -195,8 +195,6 @@ My cybersecurity background gives me a unique edge in data accuracy, risk awaren
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 <br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0C447C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshma-keshireddy-1283b91b6/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-A32D2D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmakeshireddy1021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Portfolio-2C2C2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reshmakeshireddy1021-bit)
 
